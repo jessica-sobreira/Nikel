@@ -18,6 +18,10 @@ O projeto **Nikel** é o resultado da avaliação eliminatória para ingressar n
 - **CSS:** Estilização para proporcionar uma experiência visual agradável.
 - **JavaScript:** Implementação de lógica e interatividade.
 
+##Acesse
+
+O acesso da página pode ser feito pelo link [Nikel](https://nikel-tau.vercel.app/)
+
 ## Autor
 
 Este projeto é parte integrante do processo seletivo da GrowDev e foi desenvolvido como parte da avaliação eliminatória no curso Codaí.
