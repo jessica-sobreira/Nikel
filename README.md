@@ -18,9 +18,9 @@ O projeto **Nikel** é o resultado da avaliação eliminatória para ingressar n
 - **CSS:** Estilização para proporcionar uma experiência visual agradável.
 - **JavaScript:** Implementação de lógica e interatividade.
 
-##Acesse
+## Acesse
 
-O acesso da página pode ser feito pelo link [Nikel](https://nikel-tau.vercel.app/)
+- O acesso da página pode ser feito pelo link [Nikel](https://nikel-tau.vercel.app/)
 
 ## Autor
 
